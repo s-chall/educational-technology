@@ -1,25 +1,21 @@
 # Educational Technology
 
-Learning tools and interactive educational applications.
+Learning tools and interactive applications that help people practice, understand, and build skills.
 
-**Status:** collection scaffold. No learning tools have been added yet.
+## Selected projects
 
-## Add a tool
+No projects are featured yet. This directory will link to each tool's own repository, with a concise overview, platform screenshots, implementation details, and instructions for trying it.
 
-Start with the [project template](templates/project/). Each tool will have its own folder with a README, application code, setup instructions, real screenshots, and diagrams explaining its workflow and implementation.
+## Related research
 
-## Planned structure
+My research applications are featured in the [Research portfolio](https://github.com/s-chall/research), including [Reading Error Engine](https://github.com/s-chall/reading-error-engine) and [Bloom's Taxonomy Question Generation](https://github.com/s-chall/mcq-generation-blooms-taxonomy).
 
-```text
-educational-technology/
-  templates/project/README.md
-  tool-name/                 # added when a tool is ready
-    README.md
-    docs/images/
-    docs/architecture.md
-    [application code]
-```
+<details>
+<summary>Adding a project</summary>
 
-## Other collections
+Use the [documentation template](templates/project/) to prepare the problem statement, my contribution, screenshots, workflow and architecture diagrams, local setup, and limitations. Keep implementation and tests in the project's own repository; add its link here when ready to showcase.
 
-[Research](https://github.com/s-chall/research) · [Hackathons](https://github.com/s-chall/hackathon-prototypes) · [Data Journalism](https://github.com/s-chall/data-journalism)
+</details>
+
+---
+[Profile](https://github.com/s-chall) · [Research](https://github.com/s-chall/research) · [Hackathons](https://github.com/s-chall/hackathon-prototypes) · [Data Journalism](https://github.com/s-chall/data-journalism)
